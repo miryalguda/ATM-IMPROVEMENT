@@ -1,0 +1,61 @@
+h1,
+#root {
+    margin-left: 300px;
+}
+
+h1,
+h2,
+h3 {
+    margin-top: 20px;
+}
+
+.atm-form {
+    display: flex;
+    flex-direction: column;
+}
+
+select#mode-select {
+    width: 200px;
+}
+
+#number,
+#submit {
+    margin-left: 5px;
+}
+.box {
+    width : 500px;
+    height: 400px;
+    border: 2px solid rgb(244, 213, 213);
+    margin-left: 50px;
+    background-color:aquamarine;
+}
+.box1 {
+    width : 600px;
+    height: 500px;
+    border: 2px solid rgb(243, 96, 96);
+    background-color: rgb(224, 149, 238);
+    
+    margin-top: 200px;
+    
+    
+
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: darkblue;
+    font-family: 'Alumni Sans Inline One', sans-serif;
+}
+div > h2 {
+
+    background-color: teal;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: chocolate;   
+}
+label, option {
+    font-size: 20px;
+    color: black;
+
+}
